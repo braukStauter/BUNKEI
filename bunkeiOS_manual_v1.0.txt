@@ -11,3 +11,114 @@
 |                                                                                    |
 | DOCUMENT RELSD        RSTCD << UNDER AUTHORITY OF GOVT OFCR >> [  E.M. 00-001  ]   |
 +------------------------------------------------------------------------------------+
+
+              -                                                    -                    
+
++------------------------------------------------------------------------------------+
+|                       SECTION 01. O.S. PHILOSOPHY                                  |
++------------------------------------------------------------------------------------+
+
+CHAP 1  BACKGROUND KNOWLEDGE
+  //This document serves only one purpose: to describe the operating philosophy and
+  rules associated with operation of BUNKEI OS. This system was designed by two senior
+  Glenhaven Safety Bunker Co. (GSBC as it's more colloquially called,) and released to
+  the Public System Interface (PSI) shortly after the bunker became operational. If
+  you find yourself reading this manual, and you're not one of the senior engineers on
+  this project, then it is likely that we have reached our ultimate demise and for
+  whatever reason, you haven't. Before you start poking around the operating system
+  that runs all key electronic functions of the bunker, we think it's important that
+  you understand exactly what's happening here. It's possible this will be found by
+  an outsider even /well/ beyond our bunker ceases operation. For background:
+
+    \\ It has become pertienent (for reasons that we cannot place in memory) for us to
+      relocate to this safety structure. Our employer, GSBC, has built this entire
+      facility that will eventually house a population of over 20,000. 
+
+    \\ GSBC maintains a seperate governmental body, whose purpose is to oversee these
+      eventual 20,000 inhabitants.                       [[SEE SYSTEM NOTES 11-1-10A]]
++------------------------------------------------------------------------------------+
+
+              -                                                    -                    
+
++------------------------------------------------------------------------------------+
+|                      SECTION 02. COMMAND PHILOSOPHY                                |
++------------------------------------------------------------------------------------+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++------------------------------------------------------------------------------------+
+
+              -                                                    -                    
+
++------------------------------------------------------------------------------------+
+|                      SECTION 03. BUNKEI SYSTEMS CONFIGURATIONS                     |
++------------------------------------------------------------------------------------+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++------------------------------------------------------------------------------------+
+
+              -                                                    -                    
+
++------------------------------------------------------------------------------------+
+|                      SECTION 11. SYSTEM NOTES/SPECI                                |
++------------------------------------------------------------------------------------+
+
+SYSTEM NOTE   11-1-10A
+  //As it turns out, the system notes are the only thing I can get away with putting
+  real information into. It falls outside of the memory monitoring system parameters
+  that ELECs has attached to our system. So, everything I put here is basically the
+  insider scoop. 
+
+  //I've built a program called 'p8rtyTr1x' for a bunch of backdoor commands. One of
+  them is deisgned to check the current live population from the database. I can't
+  give all the info for it, I've lost my notes and I don't have time to re-write the
+  script. All I can find is this portion of my command table for the program:
+
+  \\[============================================================================]
+    |          |          |          |          |                                |
+    |          |          |          |          |                                |
+    |          |          |          |          |                                |
+    |          |          |          |          |                                |
+    [============================================================================]
+                                            COMMAND TABLE STRUCTURE, SEE: 02-1-01
+
+  //If you can make sense of that, cool. Also, if you're just joining us, welcome. I
+  would imagine that we're probably in Emergency Electrical Config if you're reading
+  this manual in the first place (it's the only way to access it, on purpose, lol.) 
+
+  //I would go to Chapter 3 to check out the electrical configuration to get the full
+  power restored to the processor. Only four commands are designed to work in this
+  config, and one of them opens the topOut. So. Don't do that. 
+    
+
+
